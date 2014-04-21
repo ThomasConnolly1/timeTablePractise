@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace TimeTableApp
+namespace mytimeTableApp
 {
     public class FilterConfig
     {
